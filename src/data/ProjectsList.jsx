@@ -38,7 +38,7 @@ export const ProjectsList = {
       description:
         "My portfolio is a website built with React.js and Tailwind CSS, utilizing React Router v6 to enable easy access to multiple pages. It was designed and created entirely by myself, showcasing my skills and projects. The website is responsive and visually appealing, providing a user-friendly experience.",
       technologies: ["React JS", "Tailwind CSS", "Git", "GitHub", "Vite"],
-      link:"https://sawaidhariwal-portfolio.netlify.app/",
+      link:"https://github.com/Sawaijain/portfolio",
     },
   
     {
