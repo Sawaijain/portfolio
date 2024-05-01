@@ -1,6 +1,6 @@
 export const UserData = {
   name: "Sawai Dhariwal",
-  about : "I'm a front end developer that learned everything on my own. I specialize in creating dynamic, accessible websites that work on any device. Furthermore, I regularly create creative solutions that improve user experiences. I am proficient in React.js, Redux, JavaScript, HTML5, and CSS. I guarantee efficient code management and communication thanks to my knowledge with Git version control. Likewise, I'm also skilled at developing apps using mini program studio frameworks and exceeding client expectations with my high-caliber solutions.",
+  about : "Meet Sawai Dhariwal, a talented frontend developer with expertise in React Native, JavaScript, and React. With a passion for crafting seamless user experiences and a keen eye for design, Sawai Dhariwal brings creativity and technical finesse to every project. Whether it's building intuitive mobile apps or responsive web interfaces, Sawai Dhariwal is dedicated to delivering high-quality solutions that delight users and exceed expectation",
   resumeUrl : "https://drive.google.com/file/d/1FMAc8k4O69k-F7aBvRjNVYx_lFhIaflH/view?usp=drive_link",
   FooterLink : "https://www.linkedin.com/in/sawai-dhariwal-55b6b11a7/",
   socialMedia: [
